@@ -8,7 +8,5 @@ Sudoku is a puzzle that involves filling a grid of 9x9 cells with numbers such t
 
 It's also a good idea to check your work regularly to make sure you haven't made any mistakes. If you get stuck, you can try using additional techniques such as "naked pairs," "naked triples," and "naked quads," or you can try making an educated guess and then working from there (this is called "trial and error").
 
-![Easy board](https://raw.githubusercontent.com/sonnemaf/SudokuHelp/main/Images/Board.png)
-
 # More
 This is a first version of our `How to play` page. More content will be added soon.
