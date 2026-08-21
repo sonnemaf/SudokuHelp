@@ -9,11 +9,11 @@ forming them into sets of runs and groups, and then melding them onto the table.
 All runs must consist of at least 3 tiles of the same color and consecutive rank. A run 
 with tiles 12-13-1 is not valid.
 
-![image](https://raw.githubusercontent.com/sonnemaf/SudokuHelp/main/Rummi/Set1.png)
+![image](Set1.png?size=375x160)
 
 Groups must consist of 3 or 4 tiles of different colors with the same rank.
 
-![image](https://raw.githubusercontent.com/sonnemaf/SudokuHelp/main/Rummi/Set2.png)
+![image](Set2.png)
 
 ## Jokers
 A joker may be substituted for any tile when you make a meld. The joker may be 
@@ -21,7 +21,7 @@ substituted with tiles already played. You may not hold a substituted joker to u
 later turn. You may use and rearrange Jokers in any way you like, without any 
 restriction other than that each tile must end up being part of a valid meld.
 
-![image](https://raw.githubusercontent.com/sonnemaf/SudokuHelp/main/Rummi/Set3.png)
+![image](Set3.png)
 
 ## Play
 In order to place tiles on the table each player must make an initial meld of 30 points 
