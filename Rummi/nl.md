@@ -3,7 +3,7 @@ Het spel bevat 106 stenen, waaronder 2 jokers. Er zijn 4 verschillende kleuren s
 zwart, rood, geel en groen, met de nummers 1 tot en met 13. Alle stenen worden door elkaar 
 geschud. Elke speler krijgt 14 willekeurige stenen, die op zijn of haar plankje worden gelegd.
 
-## Doelstelling
+# Doelstelling
 Het doel is om als eerste alle stenen van je plankje kwijt te raken door er rijen en groepen 
 van te maken en deze vervolgens op tafel te leggen.
 Elke rij moet uit minimaal 3 stenen van dezelfde kleur met opeenvolgende nummers bestaan. Een rij 
