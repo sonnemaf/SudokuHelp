@@ -24,7 +24,9 @@ restriction other than that each tile must end up being part of a valid meld.
 
 # Play
 In order to place tiles on the table each player must make an initial meld with a minimal number of points 
-in one or more sets. The minimal required points is different in each game level.
+in one or more sets. 
+
+The minimal required points is different in each game level.
 
 - Easy -> 27
 - Normal -> 30
