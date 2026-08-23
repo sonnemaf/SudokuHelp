@@ -27,6 +27,13 @@ verplaatsen, zolang elke steen uiteindelijk deel uitmaakt van een geldige combin
 Om stenen op tafel te mogen leggen, moet elke speler de eerste keer uitleggen met een minimaal aantal punten in één of meerdere sets. 
 Het aantal benodigde punten is afhankelijk van het niveau van het spel, zie tabel hieronder.
 
+some|header|labels
+:---|:--:|---:
+Left-justified|center-justified|right-justified
+a|b|c
+d|e|f
+
+
 Niveau|Minimaal aantal punten
 :---|---:
 Simpel|27
