@@ -24,12 +24,20 @@ verplaatsen, zolang elke steen uiteindelijk deel uitmaakt van een geldige combin
 ![image](Set3.png)
 
 # Spelverloop
-Om stenen op tafel te mogen leggen, moet elke speler een eerste combinatie van 30 punten 
-leggen, in één of meer sets. Op het niveau Makkelijk is dit 24 punten en op het niveau 
-Moeilijk 36 punten. Deze punten moeten uitsluitend afkomstig zijn van stenen uit je hand 
+Om stenen op tafel te mogen leggen, moet elke speler de eerste keer uitleggen met een minimaal aantal punten in één of meerdere sets. 
+Het aantal benodigde punten is afhankelijk van het niveau van het spel, zie tabel hieronder.
+
+|Niveau|Minimaal aantal Punten|
+|------|----------------------|
+|Simpel|27|
+|Middel|30|
+|Moeilijk|33|
+|Expert|36|
+
+Deze punten moeten uitsluitend afkomstig zijn van stenen uit je plankje 
 en niet van stenen die al op tafel liggen. Nadat je je eerste punten hebt gelegd, mag je 
 op tafel spelen en combinaties aanpassen en herschikken. Je mag geen stenen van andere 
-spelers gebruiken om de eerste punten te behalen.
+spelers gebruiken om de eerste keer uit te leggen.
 Als je niets kunt toevoegen aan de rijen of groepen van jezelf of van je tegenstanders, 
 moet je een steen van de tafel pakken. Daarna moet je wachten tot je volgende beurt om te spelen.
 

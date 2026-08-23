@@ -23,9 +23,18 @@ restriction other than that each tile must end up being part of a valid meld.
 ![image](Set3.png)
 
 # Play
-In order to place tiles on the table each player must make an initial meld of 30 points 
-in one or more sets. In Easy level this is 24 points, in Hard it is 36 points. These points 
-must come from tiles in the hand only and not from tiles already on the table. Once 
+In order to place tiles on the table each player must make an initial meld with a minimal number of points 
+in one or more sets. The minimal required points is different in each game level, see table below.
+
+|Level|Minimal number of points|
+|-----|------------------------|
+|Easy|27|
+|Normal|30|
+|Hard|33|
+|Expert|36|
+
+
+These points must come from tiles in the hand only and not from tiles already on the table. Once 
 you have placed your initial points down, you are free to play on the table and 
 manipulate and rearrange melds. You may not use other players' tiles to make the 
 initial points.
