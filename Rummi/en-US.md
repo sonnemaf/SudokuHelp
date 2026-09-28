@@ -6,7 +6,7 @@ Objective
 The objective of the game is to be the first to eliminate all the tiles from your rack by 
 forming them into sets of runs and groups, and then melding them onto the table.
 All runs must consist of at least 3 tiles of the same color and consecutive rank. A run 
-with tiles 12-13-1 is not valid.
+with tiles 12-13-1 is not valid..
 
 ![image](Set1.png)
 
