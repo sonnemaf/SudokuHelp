@@ -4,17 +4,17 @@ black, red, yellow, and green numbering 1 through 13. All tiles are shuffled tog
 Each player gets 14 random tiles wich are placed on their rack.
 Objective
 The objective of the game is to be the first to eliminate all the tiles from your rack by 
-forming them into sets of runs and groups, and then melding them onto the table.
+forming them into sets of `runs` and `groups`, and then melding them onto the table.
 All runs must consist of at least 3 tiles of the same color and consecutive rank. A run 
 with tiles 12-13-1 is not valid.
 
-<img src="Set1.png" width="160" height="600" />
+<img src="Set1.png" width="400" />
 
 Groups must consist of 3 or 4 tiles of different colors with the same rank.
 
-![image](Set2.png)
+<img src="Set2.png" width="400" />
 
-# Jokers
+## Jokers
 A joker may be substituted for any tile when you make a meld. The joker may be 
 substituted with tiles already played. You may not hold a substituted joker to use in a 
 later turn. You may use and rearrange Jokers in any way you like, without any 
@@ -22,7 +22,7 @@ restriction other than that each tile must end up being part of a valid meld.
 
 ![image](Set3.png)
 
-# Play
+### Play
 In order to place tiles on the table each player must make an initial meld with a minimal number of points 
 in one or more sets. 
 
