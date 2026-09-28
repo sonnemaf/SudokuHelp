@@ -2,7 +2,8 @@
 There are 106 tiles in the game including 2 jokers. There are 4 different color tiles, 
 black, red, yellow, and green numbering 1 through 13. All tiles are shuffled together. 
 Each player gets 14 random tiles wich are placed on their rack.
-Objective
+
+# Objective
 The objective of the game is to be the first to eliminate all the tiles from your rack by 
 forming them into sets of runs and groups, and then melding them onto the table.
 All runs must consist of at least 3 tiles of the same color and consecutive rank. A run 
