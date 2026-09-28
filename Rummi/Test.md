@@ -12,6 +12,7 @@ with tiles 12-13-1 is not valid.
 <img src="Set1.png" width="400" />
 
 Groups must consist of 3 or 4 tiles of different colors with the same rank.
+---
 
 <img src="Set2.png" width="400" />
 
