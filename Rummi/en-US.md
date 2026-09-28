@@ -8,7 +8,7 @@ forming them into sets of runs and groups, and then melding them onto the table.
 All runs must consist of at least 3 tiles of the same color and consecutive rank. A run 
 with tiles 12-13-1 is not valid.
 
-<img src="Set1.png" width="160" height="600" />
+![image](Set1.png)
 
 Groups must consist of 3 or 4 tiles of different colors with the same rank.
 
